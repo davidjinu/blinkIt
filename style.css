@@ -3,6 +3,25 @@
     margin:0px;
 }
 #vertical-line{
-    height: 80px;
+    height: 86px;
     border-left: 1px solid lightgray;
+}
+#nav_delivery>h5{
+    margin: 0px;
+    font-weight: 800;
+}
+#nav_delivery>p{
+    margin: 0px;
+}
+#search{
+border: 1px solid lightgray;
+background-color: rgb(248, 245, 245);
+border-radius: 8px;
+
+width: 35vw;
+padding:10px;
+}
+#search>input{
+    border: none;
+    background: transparent;
 }
